@@ -1,0 +1,16 @@
+Asteraceae,Pluchea_baccharis
+Poaceae,Sacciolepis_striata
+Arecaceae,Serenoa_repens
+Poaceae,Dactyloctenium_aegyptium
+Asteraceae,Erigeron_foliosus_var._foliosus
+Sapotaceae,Sideroxylon_reclinatum_subsp._rufotomentosum
+Bignoniaceae,Dolichandra_unguis-cati
+Asteraceae,Gnaphalium_antillanum
+Rutaceae,Zanthoxylum_clava-herculis
+Fagaceae,Quercus_laevis_x_hemisphaerica
+Fagaceae,Quercus_laevis_x_incana
+Poaceae,Imperata_cylindrica
+Asteraceae,Verbesina_heterophylla
+Rhamnaceae,Ceanothus_microphyllus
+Asteraceae,Heterotheca_subaxillaris
+Asteraceae,Heliopsis_buphthalmoides

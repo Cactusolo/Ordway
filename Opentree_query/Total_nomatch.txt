@@ -1,0 +1,18 @@
+Dolichandra unguis-cati	1001573
+Erigeron foliosus var. foliosus	696078
+Gnaphalium antillanum	569718
+Heliopsis buphthalmoides	#not found in opentree, but accepted names in other database TPL, Tropics
+Pluchea baccharis	#not found in opentree, but accepted names in other database TPL, Tropics
+Quercus laevis x hemisphaerica #hybrid delete
+Quercus laevis x incana #hybrid delete
+Sideroxylon reclinatum subsp. rufotomentosum	1077723
+Verbesina heterophylla#query from Opentree API, best match is "Berberis heterophylla" (totally different family, maybe unreliable)
+Zanthoxylum clava-herculis	3942437
+
+#This taxon is in our taxonomy but not in our tree synthesis database. This can happen for a variety of reasons, but the most probable is that is has a taxon flag (e.g. incertae sedis) that causes it to be pruned from the synthetic tree. See the taxonomy browser for more information about this taxon.
+Ceanothus microphyllus	877139
+Dactyloctenium aegyptium	752144
+Heterotheca subaxillaris	206813
+Imperata cylindrica	740074
+Sacciolepis striata	3956672
+Serenoa repens	71637

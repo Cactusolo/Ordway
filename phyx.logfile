@@ -1,0 +1,2 @@
+pxtrt -t /ufrc/soltis/cactus/Dimension/Community_Opentree/vas_opentree_9.1.tre -f Opentree_query/_justids.ottids
+pxtrt -t /ufrc/soltis/cactus/Dimension/Community_Opentree/vas_opentree_9.1.tre -f Opentree_query/Ordway_site_justids.ottids
