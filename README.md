@@ -8,10 +8,15 @@ Among them,
 _Note from Open tree:This taxon is in our taxonomy but not in our tree synthesis database. This can happen for a variety of reasons, but the most probable is that is has a taxon flag (e.g. incertae sedis) that causes it to be pruned from the synthetic tree. See the taxonomy browser for more information about this taxon._
 
 Ceanothus microphyllus	877139 
+
 Dactyloctenium aegyptium	752144 
+
 Heterotheca subaxillaris	206813 
+
 Imperata cylindrica	740074 
+
 Sacciolepis striata	3956672
+
 Serenoa repens  71637
 
 # 5 can be added back in the opentree with ottid after ott, TPL, and tropicos reconsideration; 
@@ -49,7 +54,7 @@ some of those issues appeared frequently, based on different species list I have
 
 * 1. if there is a "-" in species names (e.g., Dolichandra unguis-cati, Zanthoxylum clava-herculis), the script ("get_ottids_for_taxa.py") will fail to grap ottids, so will not present in the result tree.
 
-Those two example names can be found in the Open tree, ottid1001573, and ottid3942437.
+  Those two example names can be found in the Open tree, ottid1001573, and ottid3942437.
 
 * 2. how to add those species in two categories below to the subtree:
 
