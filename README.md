@@ -54,10 +54,10 @@ Those two example names can be found in the Open tree, ottid1001573, and ottid39
 * 2. how to add those species in two categories below to the subtree:
 
 
-+ Cat1: species do have ottid, but not present in the synthetic tree (those two add back in scripts not working on my side)
+  + Cat1: species do have ottid, but not present in the synthetic tree (those two add back in scripts not working on my side)
 
-+ Cat2: species  not found in opentree, but accepted names in other database TPL, and Tropics.
+  + Cat2: species  not found in opentree, but accepted names in other database TPL, and Tropics.
 
 * 3. what approach do you recommend to convert the ottids to species names, phyx or  "convert_ottids_names_tre.py"? The results obtained from both are required manual fixing or modification.
-+ A. phyx can only replace ottid (old.name) on the tips labels to  species name (new.name), but those internal-node (mrcaott...) will be still left in the tree, right? So for the internal-labels either manually rename or remove.
-+ B. "convert_ottids_names_tre.py" will rename every ottid with names, but usually the tree format (newick) is not valid in the resultant tree file (either "(", or ";" missing ).
+  + A. phyx can only replace ottid (old.name) on the tips labels to  species name (new.name), but those internal-node (mrcaott...) will be still left in the tree, right? So for the internal-labels either manually rename or remove.
+  + B. "convert_ottids_names_tre.py" will rename every ottid with names, but usually the tree format (newick) is not valid in the resultant tree file (either "(", or ";" missing ).
