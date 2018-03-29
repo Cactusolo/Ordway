@@ -27,7 +27,7 @@ Dolichandra unguis-cati	1001573
 Erigeron foliosus var. foliosus as (Erigeron foliosus)	696078 
 
 
-Gnaphalium antillanum	569718
+Gnaphalium antillanum	569718 (Gamochaeta antillana)
 
 
 Zanthoxylum clava-herculis	3942437
