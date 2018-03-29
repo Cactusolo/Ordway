@@ -38,15 +38,18 @@ Sideroxylon reclinatum subsp. rufotomentosum	as (Sideroxylon reclinatum)	1077723
 
 # 2 are hybrids maybe deleted;
 
-Quercus laevis x hemisphaerica #hybrid delete
+Quercus laevis x hemisphaerica #hybrid delete/ or as Quercus laevis
 
 
-Quercus laevis x incana #hybrid delete
+Quercus laevis x incana #hybrid delete/ or as Quercus laevis
 
 # 3 remainin are not found in opentree, but accepted names in other database TPL, Tropics.
+
 Heliopsis buphthalmoides	#not found in opentree, but accepted names in other database TPL, Tropics
+
 Pluchea baccharis	#not found in opentree, but accepted names in other database TPL, Tropics
-Verbesina heterophylla#query from Opentree API, best match is "Berberis heterophylla" (totally different family, maybe unreliable)
+
+Verbesina heterophylla #query from Opentree API, best match is "Berberis heterophylla" (totally different family, maybe unreliable)
 
 
 
