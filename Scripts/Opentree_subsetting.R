@@ -1,4 +1,6 @@
 #Opentree subsets
+
+# This is Johanna's R Script, may be used for PD caculation as the same method
 tree572 <- read.tree("./Basedata_Prep/Ordway_572_reduced_names.tre")
 
 taxa <- tree572$tip.label
