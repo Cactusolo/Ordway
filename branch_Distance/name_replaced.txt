@@ -1,0 +1,7 @@
+new_name	Old_name
+Erigeron_foliosus	Erigeron_foliosus_var._foliosus
+Gamochaeta_antillana	Gnaphalium_antillanum	
+Quercus_laevis	Quercus_laevis_x_hemisphaerica
+Quercus_laevis_x_incana	delete
+Sideroxylon_reclinatum	Sideroxylon_reclinatum_subsp._rufotomentosum
+sed -i 's/^[A-Za-z]\+ceae_//g' test.phy

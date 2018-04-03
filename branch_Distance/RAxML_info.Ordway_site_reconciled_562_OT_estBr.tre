@@ -1,0 +1,107 @@
+IMPORTANT WARNING: Alignment column 134 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 135 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 136 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 137 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 205 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 206 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 207 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 208 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 209 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 514 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 515 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 516 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 517 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 518 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 519 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1135 contains only undetermined values which will be treated as missing data
+
+
+IMPORTANT WARNING: Sequences Andropogon_tracyi and Andropogon_glomeratus are exactly identical
+
+
+IMPORTANT WARNING: Sequences Andropogon_tracyi and Andropogon_virginicus are exactly identical
+
+
+IMPORTANT WARNING: Sequences Hypericum_brachyphyllum and Hypericum_fasciculatum are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cyperus_retrorsus and Cyperus_plukenetii are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cyperus_retrorsus and Cyperus_tetragonus are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cyperus_retrorsus and Cyperus_croceus are exactly identical
+
+
+IMPORTANT WARNING: Sequences Acalypha_gracilens and Croton_glandulosus are exactly identical
+
+
+IMPORTANT WARNING: Sequences Lechea_mucronata and Lechea_sessiliflora are exactly identical
+
+
+IMPORTANT WARNING: Sequences Agalinis_setacea and Agalinis_plukenetii are exactly identical
+
+
+IMPORTANT WARNING: Sequences Eupatorium_leptophyllum and Eupatorium_capillifolium are exactly identical
+
+IMPORTANT WARNING
+Found 10 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+
+IMPORTANT WARNING
+Found 16 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates and undetermined columns removed is printed to file Ordway_site_reconciled_562_OT.algnment.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+Alignment has 16 completely undetermined sites that will be automatically removed from the input data
+
+
+
+This is RAxML version 8.2.3 released by Alexandros Stamatakis on August 12 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 1399 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 30.86%
+
+RAxML Model Optimization up to an accuracy of 0.100000 log likelihood units
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1399
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -f e -t input.tre -m GTRGAMMA -s Ordway_site_reconciled_562_OT.algnment -n Ordway_site_reconciled_562_OT_estBr.tre 
+
+

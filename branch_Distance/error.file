@@ -1,0 +1,2 @@
+raxmlHPC: treeIO.c:1397: treeReadLen: Assertion `0' failed.
+/tmp/slurmd/job18715930/slurm_script: line 15: 10956 Aborted                 raxmlHPC -f e -t input.tre -m GTRGAMMA -s Ordway_site_reconciled_562_OT.algnment -n Ordway_site_reconciled_562_OT_estBr.tre
